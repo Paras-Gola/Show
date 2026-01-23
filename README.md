@@ -1,5 +1,4 @@
-# Show
-This repository contains a simple dashboard's created for practice and exploration. It uses sample data to learn features such as charts, filters, slicers, and basic interactivity. The focus is on improving visualization skills rather than solving a business problem.
+This repository showcases beginner-level Data Analytics projects using SQL, Python, Tableau, and Power BI. It includes queries, dashboards, reports, and insights focused on data cleaning, analysis, and visualization for learning and practical understanding.
 
 View Dashboard on Tableau Public
-https://public.tableau.com/shared/PPGRZXNPT?:display_count=n&:origin=viz_share_link
+🔗 https://public.tableau.com/shared/PPGRZXNPT?:display_count=n&:origin=viz_share_link
